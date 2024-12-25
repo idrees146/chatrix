@@ -1,0 +1,28 @@
+
+
+
+
+.message{
+
+  padding: 10px;
+  max-width: 50vw;
+  height: auto;
+  display: flex;
+ 
+  background-color: #C8C8C8;
+  border-radius: 10px;
+  margin-bottom: 14px;
+  
+
+}
+
+.left{
+float: left;
+clear: both;
+}
+
+.right{
+  float: right;
+  clear: both;
+
+}
